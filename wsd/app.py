@@ -1,7 +1,7 @@
-from preprocessor import Preprocessor
+from wsd.preprocessor import Preprocessor
 from nltk.corpus import wordnet as wn
-from sentence_reader import WSDFileReader
-from wsd import WSD
+from wsd.sentence_reader import WSDFileReader
+from wsd.wsd import WSD
 
 methods = ["stemming", "lemming"]
 
