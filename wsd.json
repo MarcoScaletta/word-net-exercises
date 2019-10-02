@@ -1,0 +1,81 @@
+{
+  "wsd_list": [
+    {
+      "word": "arms",
+      "sentences": [
+        {
+          "sentence": "Arms bend at the elbow."
+        },
+        {
+          "sentence": "Germany sells arms to Saudi Arabia."
+        }
+      ]
+    },
+    {
+      "word": "key",
+      "sentences": [
+        {
+          "sentence": "The key broke in the lock."
+        },
+        {
+          "sentence": "The key problem was not one of quality but of quantity."
+        }
+      ]
+    },
+    {
+      "word": "solution",
+      "sentences": [
+        {
+          "sentence": "Work out the solution in your head."
+        },
+        {
+          "sentence": "Heat the solution to 75° Celsius."
+        }
+      ]
+    },
+    {
+      "word": "ash",
+      "sentences": [
+        {
+          "sentence": "The house was burnt to ashes while the owner returned."
+        },
+        {
+          "sentence": "This table is made of ash wood."
+        }
+      ]
+    },
+    {
+      "word": "lunch",
+      "sentences": [
+        {
+          "sentence": "The lunch with her boss took longer than she expected."
+        },
+        {
+          "sentence": "She packed her lunch in her purse."
+        }
+      ]
+    },
+    {
+      "word": "classification",
+      "sentences": [
+        {
+          "sentence": "The classification of the genetic data took two years."
+        },
+        {
+          "sentence": "The journal Science published the classification this month."
+        }
+      ]
+    },
+    {
+      "word": "wood",
+      "sentences": [
+        {
+          "sentence": "His cottage is near a small wood."
+        },
+        {
+          "sentence": "The statue was made out of a block of wood."
+        }
+      ]
+    }
+  ]
+}
